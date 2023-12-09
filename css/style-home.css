@@ -1,0 +1,10 @@
+#footer {
+    width: 100%;
+    background:rgb(0,0,0,0.79);
+    height: 322px;
+    margin-top:130px;
+    padding:0px 0px;
+    padding-top:57px;
+    display: flex;
+    justify-content: space-around;
+}
